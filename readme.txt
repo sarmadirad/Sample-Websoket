@@ -1,5 +1,6 @@
+- this application is chatroom sample
+-execute in command line  : java -jar websocket-3.2.3.jar
+-chat room address : http://localhost:8080
 - Use images with a capacity of less than 50 kb to send  use sample image file 
 - Java Compiler is Jdk 17
 -Users : user1,user2 ,......
--sa
--execute in command line  : java -jar websocket-3.2.3.jar
